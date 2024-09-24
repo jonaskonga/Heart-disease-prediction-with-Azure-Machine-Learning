@@ -5,7 +5,7 @@ The project aims to predict the probability of an individual developing cardiova
 
 ## Project architecture
 
-The project aims to collect data from an API. Using Data Factory's ingestion mechanisms, a pipeline will be created to extract this data and store it in a data lake. This data will then be retrieved from Azure Data Lake via Azure Machine Learning to make predictions.
+**The project** aims to collect data from an API. Using Data Factory's ingestion mechanisms, a pipeline will be created to extract this data and store it in a data lake. This data will then be retrieved from Azure Data Lake via Azure Machine Learning to make predictions.
 
 
 
@@ -26,5 +26,5 @@ Fluoroscopy : résultats de la fluoroscopie (0 = pas d'anomalie, 1 = faible, 2 =
 Thalassaemia : présence d'une thalassémie (3 = Non, 6 = Thalassémie sous contrôle, 7 = Thalassémie instable)
 Disease : présence d'une maladie cardiovasculaire (0 = Non, 1/2/3/4 = Oui)
 
-# Architecure Schema
+## Architecure Schema
 ![image](https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655)
