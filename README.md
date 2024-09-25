@@ -9,7 +9,7 @@ The project aims to predict the probability of an individual developing cardiova
 
 
 
-## Signification des features :
+## Meaning of features  :
 <ul>
 <li>Age : âge (années)</li>
 <li>Sex : sexe (0 = femme, 1 = homme)</li>
