@@ -32,7 +32,7 @@ The project aims to predict the probability of an individual developing cardiova
   <img src="https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655" width="600" height="400"/>
 </div><br>
 
-Télecharger l'image via ce lien : [here](https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655)
+Télecharger l'image via ce lien :https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655
 
 ## Languages and Tools:
 
