@@ -33,13 +33,12 @@ Disease : présence d'une maladie cardiovasculaire (0 = Non, 1/2/3/4 = Oui)
 </div><br>
 Télecharger l'image via ce lien : ![image](https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655)
 
-### Languages and Tools:
+## Languages and Tools:
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/750e201c-21e9-42b7-a18b-b98f6c2374a2" title="Azure Data Factory" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/750e201c-21e9-42b7-a18b-b98f6c2374a2" title="Azure Data Factory" alt="Azure Data Factory" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/0f20c400-570e-431c-b688-20983fe1a75a" title="Azure Data Lake Storage" alt="Azure Data Lake Storage" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/02118f60-f9e4-47ed-a25b-f219463324c0" title="Azure Machine Learning" alt="Azure Machine Learning" width="60" height="60"/>&nbsp;
 </div>
 
-![image]()
 
