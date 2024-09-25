@@ -27,4 +27,8 @@ Thalassaemia : présence d'une thalassémie (3 = Non, 6 = Thalassémie sous cont
 Disease : présence d'une maladie cardiovasculaire (0 = Non, 1/2/3/4 = Oui)
 
 ## Architecure Schema
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655" width="600" height="300"/>
+  
+</div><br>
 ![image](https://github.com/user-attachments/assets/008c98f0-9ce2-4955-82e3-0cdfb602d655)
